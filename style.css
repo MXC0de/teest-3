@@ -1,0 +1,7 @@
+h1{
+    text-align: center;
+    border-style: solid dotted;
+    border-color: rgb(5, 109, 134) rgb(141, 68, 68) #8e575c #000000;
+    border-width: 7px;
+    border-radius: 10px;
+}
