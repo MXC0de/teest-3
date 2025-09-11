@@ -1,7 +1,15 @@
 h1{
     text-align: center;
-    border-style: solid dotted;
-    border-color: rgb(5, 109, 134) rgb(141, 68, 68) #8e575c #000000;
-    border-width: 7px;
-    border-radius: 10px;
+    /* border-style: solid;
+    border-color: rgb(5, 109, 134);
+    border-width: 7px; */
+    border: #713636 5px solid;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+h2 {
+    border-left-style: solid;
+    border-left-width: 8px;   
+    border-left-color: #000000;
+    background-color: #5e5c5c44;
 }
